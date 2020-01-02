@@ -1,0 +1,2 @@
+Ticketing on cinema java project by bunga & zahira.
+this project is for purchasing the movie tickets and checking the movie schedule
