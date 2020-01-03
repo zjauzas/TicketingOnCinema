@@ -31,6 +31,7 @@ public class output
         System.out.println("|Seat        : B1/B2/B3/B4/B5                        |  Seat B1-B5  |");
         System.out.println("____________________________________________________________________");
         System.out.println("**********TIKET SELESAI DI PRINT**********");
-        System.exit(0);
+        end obj = new end();
+        obj.end();
     }
 }
